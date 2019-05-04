@@ -5,3 +5,11 @@ const getFirstSelector = (selector) => {
 const nestedTarget = () => {
   return document.querySelector('#nested .target')
 }
+
+const increaseRankBy = (n) => {
+  
+}
+
+const deepestChild = () => {
+  
+}
